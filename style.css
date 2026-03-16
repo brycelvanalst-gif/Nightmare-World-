@@ -1,0 +1,14 @@
+.game {
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+}
+
+.player {
+  border: 2px solid red;
+}
+
+.enemy {
+  border: 2px solid green;
+}
